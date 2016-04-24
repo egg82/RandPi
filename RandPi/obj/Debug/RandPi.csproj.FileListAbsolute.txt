@@ -1,0 +1,6 @@
+c:\users\eggys\documents\visual studio 2015\Projects\RandPi\RandPi\bin\Debug\RandPi.exe.config
+c:\users\eggys\documents\visual studio 2015\Projects\RandPi\RandPi\bin\Debug\RandPi.exe
+c:\users\eggys\documents\visual studio 2015\Projects\RandPi\RandPi\bin\Debug\RandPi.pdb
+c:\users\eggys\documents\visual studio 2015\Projects\RandPi\RandPi\obj\Debug\RandPi.csprojResolveAssemblyReference.cache
+c:\users\eggys\documents\visual studio 2015\Projects\RandPi\RandPi\obj\Debug\RandPi.exe
+c:\users\eggys\documents\visual studio 2015\Projects\RandPi\RandPi\obj\Debug\RandPi.pdb

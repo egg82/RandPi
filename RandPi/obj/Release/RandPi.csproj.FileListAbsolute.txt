@@ -1,0 +1,5 @@
+C:\Users\eggys\Documents\Visual Studio 2015\Projects\RandPi\RandPi\bin\Release\RandPi.exe.config
+C:\Users\eggys\Documents\Visual Studio 2015\Projects\RandPi\RandPi\bin\Release\RandPi.exe
+C:\Users\eggys\Documents\Visual Studio 2015\Projects\RandPi\RandPi\bin\Release\RandPi.pdb
+C:\Users\eggys\Documents\Visual Studio 2015\Projects\RandPi\RandPi\obj\Release\RandPi.exe
+C:\Users\eggys\Documents\Visual Studio 2015\Projects\RandPi\RandPi\obj\Release\RandPi.pdb
